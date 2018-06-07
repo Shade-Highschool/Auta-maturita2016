@@ -1,0 +1,22 @@
+C:\Users\Josef\Desktop\Auta\Auta\bin\Debug\Auta.exe.config
+C:\Users\Tomas\Desktop\Auta\Auta\bin\Debug\Auta.exe.config
+C:\Users\Tomas\Desktop\Auta\Auta\bin\Debug\Auta.exe
+C:\Users\Tomas\Desktop\Auta\Auta\bin\Debug\Auta.pdb
+C:\Users\Tomas\Desktop\Auta\Auta\obj\Debug\Auta.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Desktop\Auta\Auta\obj\Debug\Auta.Properties.Resources.resources
+C:\Users\Tomas\Desktop\Auta\Auta\obj\Debug\Auta.csproj.GenerateResource.Cache
+C:\Users\Tomas\Desktop\Auta\Auta\obj\Debug\Auta.exe
+C:\Users\Tomas\Desktop\Auta\Auta\obj\Debug\Auta.pdb
+C:\Users\Tomas\Desktop\Auta\Auta\obj\Debug\Auta.Main.resources
+C:\Users\Tomas\Desktop\Auta\Auta\obj\Debug\Auta.FormulářPřidatAuto.resources
+E:\Projects\Auta - maturita\Auta\obj\Debug\Auta.csprojResolveAssemblyReference.cache
+E:\Projects\Auta - maturita\Auta\obj\Debug\Auta.Main.resources
+E:\Projects\Auta - maturita\Auta\obj\Debug\Auta.FormulářPřidatAuto.resources
+E:\Projects\Auta - maturita\Auta\obj\Debug\Auta.Properties.Resources.resources
+E:\Projects\Auta - maturita\Auta\obj\Debug\Auta.csproj.GenerateResource.Cache
+E:\Projects\Auta - maturita\Auta\obj\Debug\Auta.exe
+E:\Projects\Auta - maturita\Auta\obj\Debug\Auta.pdb
+E:\Projects\Auta - maturita\Auta\obj\Debug\Auta.csproj.CoreCompileInputs.cache
+E:\Projects\Auta - maturita\Auta\bin\Debug\Auta.exe.config
+E:\Projects\Auta - maturita\Auta\bin\Debug\Auta.exe
+E:\Projects\Auta - maturita\Auta\bin\Debug\Auta.pdb
